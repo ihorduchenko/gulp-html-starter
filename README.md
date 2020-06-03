@@ -8,4 +8,9 @@ Based on Ahmad Awaish [WPGulp starter](https://github.com/ahmadawais/WPGulp)
 Ihor Duchenko
 [Ihor Duchenko](http://ihorduchenko.cloudaccess.host)
 
+How to use:
+1. Open console in root folder
+2. Write 'npm install' and press 'Enter'
+3. Write 'npm start' and press 'Enter'
+
 #### Happy coding!!!
